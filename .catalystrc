@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "8225000000036008",
+      "name": "Image-Slider",
+      "domain": {
+        "id": "50021579985",
+        "name": "image-slider-60030557178.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60030557178",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
